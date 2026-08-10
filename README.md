@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=packet tracer,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=packettracer,&theme=light)](https://skillicons.dev)
 ## 1.
 ![Mumu](1.png)
 ## 2. 
