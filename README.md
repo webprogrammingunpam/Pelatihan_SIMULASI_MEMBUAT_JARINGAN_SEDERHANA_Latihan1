@@ -1,4 +1,14 @@
 [![My Skills](https://skillicons.dev/icons?i=cisco&theme=light)](https://skillicons.dev)
+
+ Syarat  Belajar CISCO PACKET TRACER
+**BUAT AKUN DI WEBSITE NETACAD DAN DAFTAR PADA SALAH SATU COURSE,
+AGAR DAPAT MENGGUNAKAN CISCO PACKET TRACER.**
+
+[https://www.netacad.com/courses/networking-basics?courseLang=en-US](https://www.netacad.com/courses/networking-basics?courseLang=en-US)
+
+**SETELAH BERHASIL MEMBUAT AKUN, SILAKAN LOGIN MENGGUNAKAN AKUN NETACAD
+DI DALAM APLIKASI CISCO PACKET TRACER.**
+
 ## 1.
 ![Mumu](1.png)
 ## 2. 
