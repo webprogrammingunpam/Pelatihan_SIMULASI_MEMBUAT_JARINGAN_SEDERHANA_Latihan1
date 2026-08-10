@@ -1,6 +1,6 @@
 [![My Skills](https://skillicons.dev/icons?i=jaringan,&theme=light)](https://skillicons.dev)
 ## 1.
-![Mumu](image/1.png)
+![Mumu](1.png)
 ## 2. 
 ![Mumu](image/2.png)
 ## 3. 
