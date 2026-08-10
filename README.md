@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=jaringan,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=packet tracer,&theme=light)](https://skillicons.dev)
 ## 1.
 ![Mumu](1.png)
 ## 2. 
@@ -21,3 +21,7 @@
 ![Mumu](10.png)
 ## 11. 
 ![Mumu](11.png)
+## 12. 
+![Mumu](12.png)
+## 13. 
+![Mumu](13.png)
