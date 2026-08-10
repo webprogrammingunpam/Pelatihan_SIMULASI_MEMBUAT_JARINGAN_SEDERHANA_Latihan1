@@ -2,22 +2,22 @@
 ## 1.
 ![Mumu](1.png)
 ## 2. 
-![Mumu](image/2.png)
+![Mumu](2.png)
 ## 3. 
-![Mumu](image/3.png)
+![Mumu](3.png)
 ## 4. 
-![Mumu](image/4.png)
+![Mumu](4.png)
 ## 5. 
-![Mumu](image/5.png)
+![Mumu](5.png)
 ## 6. 
-![Mumu](image/6.png)
+![Mumu](6.png)
 ## 7. 
-![Mumu](image/7.png)
+![Mumu](7.png)
 ## 8. 
-![Mumu](image/8.png)
+![Mumu](8.png)
 ## 9. 
-![Mumu](image/9.png)
+![Mumu](9.png)
 ## 10. 
-![Mumu](image/10.png)
+![Mumu](10.png)
 ## 11. 
-![Mumu](image/11.png)
+![Mumu](11.png)
