@@ -3,11 +3,11 @@
  ## Syarat  Belajar CISCO PACKET TRACER
  
 1. Download CISCO PACKET TRACER
- 
-2. BUAT AKUN DI WEBSITE NETACAD DAN DAFTAR PADA SALAH SATU COURSE,
+   https://drive.google.com/drive/folders/1j0Kao8HBSGkz_F0WNyxowklj3keZ_Bj8?usp=sharing
+3. BUAT AKUN DI WEBSITE NETACAD DAN DAFTAR PADA SALAH SATU COURSE,
 AGAR DAPAT MENGGUNAKAN CISCO PACKET TRACER.
 
-[https://www.netacad.com/courses/networking-basics?courseLang=en-US](https://www.netacad.com/courses/networking-basics?courseLang=en-US)
+    [https://www.netacad.com/courses/networking-basics?courseLang=en-US](https://www.netacad.com/courses/networking-basics?courseLang=en-US)
 
 3. SETELAH BERHASIL MEMBUAT AKUN, SILAKAN LOGIN MENGGUNAKAN AKUN NETACAD DI DALAM APLIKASI CISCO PACKET TRACER.
 
