@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=server,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=router,&theme=light)](https://skillicons.dev)
 ## 1.
 ![Mumu](1.png)
 ## 2. 
